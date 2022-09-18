@@ -1,3 +1,2 @@
 # ezoct.github.io
 
-ty
